@@ -1,6 +1,6 @@
 Day 1 Excercies:
 
-1	Declare an empty array;
+1	Declare an empty array
 2	Declare an array with more than 5 number of elements
 3	Find the length of your array
 4	Get the first item, the middle item and the last item of the array
@@ -23,3 +23,4 @@ Day 1 Excercies:
 21	Remove the middle IT company or companies from the array
 22	Remove the last IT company from the array
 23	Remove all IT companies
+
